@@ -25,5 +25,11 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='50'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width='50'/>
 
 
+## What i'm currently working on
+!!!WIP
+
+## Other Stuff
+!!!WIP
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tumeyy" alt="Tumeyy" /> </p>
