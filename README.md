@@ -22,7 +22,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 ## Technologies I Use
-!!!WIP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
 
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tumeyy" alt="Tumeyy" /> </p>
