@@ -1,4 +1,4 @@
-### Hi there 👋
+<p>Welcome to my page! </br> I'm Stefan, a senior software engineer currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="13"/> <b>Michigan</b>. </p>
 
 <!--
 **Tumeyy/Tumeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
