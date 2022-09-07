@@ -17,6 +17,11 @@ You can use the website to generate badges: https://shields.io/
 * Infrastructure as Code
 * Backend Web Development
 
+## Programming Languages
+!!!WIP
+
+## Technologies I Use
+!!!WIP
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tumeyy" alt="Tumeyy" /> </p>
