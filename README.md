@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 ## :computer: Technologies I Love
 * Kubernetes
-* Docker
+* DevOps
 * Infrastructure as Code
 * Backend Web Development
 
