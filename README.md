@@ -8,6 +8,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tumeyy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-tumey-67a6a7101/)
+<img src="https://komarev.com/ghpvc/?username=Tumeyy" alt="Tumeyy" />
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
@@ -32,4 +33,3 @@ You can use the website to generate badges: https://shields.io/
 !!!WIP
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tumeyy" alt="Tumeyy" /> </p>
