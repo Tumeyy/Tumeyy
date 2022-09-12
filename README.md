@@ -25,7 +25,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 ## What i'm currently working on
-!!!WIP
+* Learning mobile app development with React Native
+* Learning frontend technologies (React.js, Blazor) 
 
 ## Other Stuff
 !!!WIP
