@@ -33,6 +33,9 @@ You can use the website to generate badges: https://shields.io/
 * Learning mobile app development with React Native
 * Learning frontend technologies (React.js, Blazor) 
 
+<br>
+<br>
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
